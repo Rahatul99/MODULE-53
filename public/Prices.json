@@ -1,0 +1,46 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Membership",
+      "price": 29.99,
+      "currency": "USD",
+      "features": [
+        "Access to gym facilities",
+        "Free weights area",
+        "Cardio machines",
+        "Locker room"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Premium Membership",
+      "price": 49.99,
+      "currency": "USD",
+      "features": [
+        "Access to all gym facilities",
+        "Free weights area",
+        "Cardio machines",
+        "Group fitness classes",
+        "Personal training",
+        "Locker room"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "VIP Membership",
+      "price": 99.99,
+      "currency": "USD",
+      "features": [
+        "Access to all gym facilities",
+        "Free weights area",
+        "Cardio machines",
+        "Group fitness classes",
+        "Personal training",
+        "Locker room",
+        "Sauna and steam room",
+        "Towel service",
+        "Complimentary snacks and drinks"
+      ]
+    }
+  ]
+  
